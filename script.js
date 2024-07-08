@@ -5,9 +5,3 @@ menuIcon.onclick = () => {
     menuIcon.classList.toggle('fa-x')
     navbar.classList.toggle('active')
 };
-
-ScrollReveal({ 
-    distance: '80px',
-    duration: 2000,
-    delay: 200,    
-});
